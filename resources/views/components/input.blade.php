@@ -1,0 +1,1 @@
+<input type="{{ $type }}" name="{{ $name }}" id="{{ $id }}" class="bg-gray-50 border border-gray-300 text-slate-800 sm:text-sm rounded-md focus:outline-none focus:ring-0 focus:border-gray-400 w-full p-2.5" placeholder="{{ $placeholder }}">

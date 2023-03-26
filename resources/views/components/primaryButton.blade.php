@@ -1,0 +1,1 @@
+<button type="submit" class="w-full text-white bg-blue-600 hover:bg-blue-700 focus:outline-none font-semibold rounded-md text-sm px-5 py-2.5 text-center active:scale-95 transition-all">{{ $text }}</button>

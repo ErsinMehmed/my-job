@@ -1,0 +1,1 @@
+<label for="{{ $for }}" class="block ml-0.5 mb-1.5 text-sm font-semibold text-slate-800">{{ $text }}</label>
